@@ -1,0 +1,5 @@
+P_Products,P_ImageID
+speakersImg,/catalog/fetchImage?image_id=4200
+tabletsImg,/catalog/fetchImage?image_id=3100
+laptopsImg,/catalog/fetchImage?image_id=1249
+micesImg,/catalog/fetchImage?image_id=5400

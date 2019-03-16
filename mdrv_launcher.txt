@@ -1,0 +1,240 @@
+
+launcher: Log started at 14/03/2019 20:43:12 .
+
+
+launcher: Log ended at 14/03/2019 20:43:39 .
+
+
+launcher: Log started at 14/03/2019 20:53:18 .
+
+
+launcher: Log ended at 14/03/2019 20:53:46 .
+
+
+launcher: Log started at 14/03/2019 21:04:30 .
+
+
+launcher: Log ended at 14/03/2019 21:05:01 .
+
+
+launcher: Log started at 14/03/2019 21:05:55 .
+
+
+launcher: Log ended at 14/03/2019 21:06:15 .
+
+
+launcher: Log started at 14/03/2019 21:07:20 .
+
+
+launcher: Log ended at 14/03/2019 21:07:41 .
+
+
+launcher: Log started at 14/03/2019 21:08:40 .
+
+
+launcher: Log ended at 14/03/2019 21:08:53 .
+
+
+launcher: Log started at 14/03/2019 21:09:40 .
+
+
+launcher: Log ended at 14/03/2019 21:10:01 .
+
+
+launcher: Log started at 14/03/2019 21:10:21 .
+
+
+launcher: Log ended at 14/03/2019 21:10:53 .
+
+
+launcher: Log started at 14/03/2019 21:11:30 .
+
+
+launcher: Log ended at 14/03/2019 21:11:53 .
+
+
+launcher: Log started at 14/03/2019 21:13:40 .
+
+
+launcher: Log ended at 14/03/2019 21:14:01 .
+
+
+launcher: Log started at 14/03/2019 21:14:28 .
+
+
+launcher: Log ended at 14/03/2019 21:15:09 .
+
+
+launcher: Log started at 14/03/2019 21:16:54 .
+
+
+launcher: Log ended at 14/03/2019 21:17:27 .
+
+
+launcher: Log started at 14/03/2019 21:19:23 .
+
+
+launcher: Log ended at 14/03/2019 21:20:03 .
+
+
+launcher: Log started at 14/03/2019 21:20:50 .
+
+
+launcher: Log ended at 14/03/2019 21:21:29 .
+
+
+launcher: Log started at 14/03/2019 21:21:50 .
+
+
+launcher: Log ended at 14/03/2019 21:22:31 .
+
+
+launcher: Log started at 14/03/2019 21:23:15 .
+
+
+launcher: Log ended at 14/03/2019 21:23:32 .
+
+
+launcher: Log started at 14/03/2019 21:24:39 .
+
+
+launcher: Log ended at 14/03/2019 21:24:50 .
+
+
+launcher: Log started at 14/03/2019 21:25:44 .
+
+
+launcher: Log ended at 14/03/2019 21:27:38 .
+
+
+launcher: Log started at 14/03/2019 21:32:56 .
+
+
+launcher: Log ended at 14/03/2019 21:33:08 .
+
+
+launcher: Log started at 14/03/2019 21:33:37 .
+
+
+launcher: Log ended at 14/03/2019 21:34:17 .
+
+
+launcher: Log started at 14/03/2019 21:37:16 .
+
+
+launcher: Log ended at 14/03/2019 21:38:01 .
+
+
+launcher: Log started at 14/03/2019 21:39:08 .
+
+
+launcher: Log ended at 14/03/2019 21:39:24 .
+
+
+launcher: Log started at 14/03/2019 21:40:11 .
+
+
+launcher: Log ended at 14/03/2019 21:40:42 .
+
+
+launcher: Log started at 14/03/2019 21:41:00 .
+
+
+launcher: Log ended at 14/03/2019 21:41:39 .
+
+
+launcher: Log started at 14/03/2019 21:43:24 .
+
+
+launcher: Log ended at 14/03/2019 21:43:46 .
+
+
+launcher: Log started at 14/03/2019 21:44:35 .
+
+
+launcher: Log ended at 14/03/2019 21:44:49 .
+
+
+launcher: Log started at 14/03/2019 21:46:04 .
+
+
+launcher: Log ended at 14/03/2019 21:46:43 .
+
+
+launcher: Log started at 14/03/2019 21:47:04 .
+
+
+launcher: Log ended at 14/03/2019 21:47:33 .
+
+
+launcher: Log started at 14/03/2019 22:30:30 .
+
+
+launcher: Log ended at 14/03/2019 22:31:24 .
+
+
+launcher: Log started at 15/03/2019 21:51:19 .
+
+
+launcher: Log ended at 15/03/2019 21:51:39 .
+
+
+launcher: Log started at 15/03/2019 21:51:56 .
+
+
+launcher: Log ended at 15/03/2019 21:52:04 .
+
+
+launcher: Log started at 15/03/2019 21:53:29 .
+
+
+launcher: Log ended at 15/03/2019 21:53:40 .
+
+
+launcher: Log started at 15/03/2019 21:53:49 .
+
+
+launcher: Log ended at 15/03/2019 21:54:06 .
+
+
+launcher: Log started at 15/03/2019 21:57:09 .
+
+
+launcher: Log ended at 15/03/2019 21:57:20 .
+
+
+launcher: Log started at 15/03/2019 21:59:33 .
+
+
+launcher: Log ended at 15/03/2019 21:59:46 .
+
+
+launcher: Log started at 15/03/2019 22:09:18 .
+
+
+launcher: Log ended at 15/03/2019 22:09:53 .
+
+
+launcher: Log started at 15/03/2019 22:13:22 .
+
+
+launcher: Log ended at 15/03/2019 22:13:30 .
+
+
+launcher: Log started at 16/03/2019 14:10:22 .
+
+
+launcher: Log ended at 16/03/2019 14:10:49 .
+
+
+launcher: Log started at 16/03/2019 14:11:58 .
+
+
+launcher: Log ended at 16/03/2019 14:12:11 .
+
+
+launcher: Log started at 16/03/2019 14:12:51 .
+
+
+launcher: Log ended at 16/03/2019 14:13:09 .
+
